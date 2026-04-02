@@ -1,6 +1,6 @@
 # React + Vite
 
-A simple and user-friendly To-Do web app that helps you organize daily tasks efficiently. It allows you to add, edit, and delete tasks, track progress, and stay productive with a clean and interactive interface.
+A simple and user-friendly To-Do web app that helps you organize daily tasks efficiently. It allows you to add, edit, and delete tasks, track progress, and stay productive with a clean and interactive interface with ability to increase productivity.
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
